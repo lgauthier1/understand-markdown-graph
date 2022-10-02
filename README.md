@@ -27,6 +27,7 @@ graph TD;
 "C" --> "D"
 @enduml
 ```
+⚠️ PlantUML is not supported natively by github, use plantuml webservice to generate plantuml chart on the fly
 
 ![uncached image](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/lgauthier1/understand-markdown-graph/main/plantuml/flowchart.txt)
 
