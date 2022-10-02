@@ -27,12 +27,6 @@ graph TD;
 "C" --> "D"
 @enduml
 ```
-```plantuml
-@startuml
-(*) --> "A"
-"A" --> "B"
-"A" --> "C"
-"B" --> "D"
-"C" --> "D"
-@enduml
-```
+
+![uncached image](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/lgauthier1/understand-markdown-graph/main/plantuml/flowchart.txt)
+
